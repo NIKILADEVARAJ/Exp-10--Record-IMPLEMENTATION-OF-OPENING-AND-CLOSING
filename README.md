@@ -82,7 +82,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-![Input Image](Output/1_Input_Image.png)
+<img width="628" height="572" alt="image" src="https://github.com/user-attachments/assets/87b81b03-bc36-4b8f-978a-ab676ba426a7" />
 
 ### 6. Apply Opening Operation
 
@@ -102,7 +102,8 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="628" height="572" alt="image" src="https://github.com/user-attachments/assets/87b81b03-bc36-4b8f-978a-ab676ba426a7" />
+<img width="567" height="587" alt="image" src="https://github.com/user-attachments/assets/19b50951-51a6-42f7-a10e-272242982c17" />
+
 
 ### 7. Apply Closing Operation
 
@@ -122,7 +123,7 @@ plt.axis('off')
 
 **OUTPUT:**
 
-<img width="567" height="587" alt="image" src="https://github.com/user-attachments/assets/19b50951-51a6-42f7-a10e-272242982c17" />
+<img width="574" height="619" alt="image" src="https://github.com/user-attachments/assets/9c3e2d71-ea78-4737-8118-7a5ed206369e" />
 
 ## Result
 
